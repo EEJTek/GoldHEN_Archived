@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.4b18.14
+- Added support for 14.02
+
 ## v2.4b18.13
 - Added support for 14.00
 
